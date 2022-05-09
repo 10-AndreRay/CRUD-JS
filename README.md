@@ -1,5 +1,5 @@
 # CRUD-JS
-Um sitema CRUD que faz cadastro de usuários. Você clica em "cadastrar usuário" e digita os dados que são salvos no localStorage e inseridos no HTML.
+Um sitema CRUD que faz cadastro de usuários. Você clica em "cadastrar usuário" e digita os dados, que são salvos no localStorage e inseridos no HTML.
 
 ## Acesse o link do projeto:
 https://10-andreray.github.io/CRUD-JS/
