@@ -1,2 +1,2 @@
 # CRUD-JS
- Um sitema CRUD com vanilla javascript e localstorage que faz cadastro de clientes
+ Um sitema CRUD com vanilla javascript, bootstrap e localstorage que faz cadastro de clientes
