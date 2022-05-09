@@ -1,0 +1,87 @@
+thead{
+    background-color: var(--bs-primary);
+    color: #fff;
+}
+
+.new-user{
+    max-width: 800px;
+    padding-left: 0;
+    padding-right: 0;
+    position: relative;
+}
+
+.header-new-user{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-new-user i{
+    padding-top: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.form form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.form form input{
+    max-width: 400px;
+    width: 350px;
+}
+
+.hidden{
+    display: none;
+}
+
+@media (max-width: 768px){
+    table{
+        font-size: 14px;
+    }
+
+    .btn{
+       font-size: 12px;
+       padding: 0.250rem .350rem; 
+    }
+}
+
+@media (max-width: 514px){
+
+    table{
+        font-size: 12px;
+        width: 200px;
+        max-width: 300px;
+    }
+
+    .table>:not(caption)>*>*{
+        padding: 0.1rem;
+        padding-top: 0 !important;
+    }
+
+    .btn{
+       font-size: 10px;
+       padding: 0.10rem .15rem; 
+    }
+}
+
+@media (max-width: 365px){
+
+    table{
+        font-size: 10px;
+        width: 200px;
+        max-width: 300px;
+    }
+
+    .table>:not(caption)>*>*{
+        padding: 0;
+        padding-top: 0 !important;
+    }
+
+    .btn{
+       font-size: 10px;
+       padding: 0.10rem .15rem; 
+    }
+}
