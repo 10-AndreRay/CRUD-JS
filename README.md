@@ -7,7 +7,7 @@ https://10-andreray.github.io/CRUD-JS/
 ## Desenvolvido com:
 -> HTML </br>
 -> CSS </br>
--> Bootstrap5 </br>
+-> Bootstrap </br>
 -> JavaScript </br>
 
 ## Conhecimento adquirido
