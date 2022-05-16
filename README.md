@@ -21,5 +21,5 @@ tela de cadastro
 
 ## Conhecimento adquirido
 Pude conhecer o localStorage, e usá-lo como um banco de dados, fazendo tanto o get como o set dos itens.
-Também aprendi a como usar tabelas com o Bootstrap, aprendi alguns novo métodos do Object e métodos do objeto JSON.
+Também aprendi a como usar tabelas com o Bootstrap, aprendi alguns novos métodos do Object e métodos do objeto JSON.
 
